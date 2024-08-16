@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    color: rgb(10, 7, 185);
+    border: solid 2px rgb(0, 0, 0);
+    background-color:rgb(228, 198, 27);
+    height: 100px;
+    padding: 1%;
+    margin:0;
+}
+.info
+{
+    text-align: center;
+    background-color: beige;
+    border: solid 2px rgb(0, 0, 0);
+}
+.contact{
+    color: rgb(0, 0, 0);
+    border: solid 2px rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(228, 198, 27);
+}
+img{
+   border: 3pc;
+   width: auto;
+}
+h1{
+    color: rgb(10,7,185);
+}
